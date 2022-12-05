@@ -111,11 +111,13 @@ nav .nav-section {
     position: absolute;
     left: 0;
     top: 0;
+    height: 100%;
 
     transition: transform 500ms ease-in-out;
 }
 
 #main>article>.article-description-section>p {
+    height: 100%;
     padding: 2rem;
 }
 
@@ -146,7 +148,7 @@ nav .nav-section {
 }
 
 #img1 {
-    background-image: url("/assets/img/IMG_0616.jpg");
+    background-image: url("/assets/img/Screenshot 2022-12-05 at 10.09.29.png");
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
