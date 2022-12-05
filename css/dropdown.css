@@ -3,6 +3,13 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
+nav div{
+    background-color:var(--background-color);
+    z-index: 100;
+    border-left: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
 nav p {
     text-align: center;
 }
