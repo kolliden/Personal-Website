@@ -104,8 +104,6 @@ nav .nav-section {
 
 #main>article {
     display: grid;
-    height: 85vh;
-    width: 100%;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 3fr 1fr;
     position: absolute;
@@ -117,7 +115,6 @@ nav .nav-section {
 
 #main>article>.article-description-section>p {
     height: 100%;
-    padding: 2rem;
 }
 
 #main>article>.article-section {
