@@ -100,7 +100,6 @@ nav .nav-section {
 #main {
     flex-grow: 1;
     position: relative;
-    height: 1050%;
 }
 
 #main>article {
