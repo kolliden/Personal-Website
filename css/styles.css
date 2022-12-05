@@ -100,18 +100,18 @@ nav .nav-section {
 #main {
     flex-grow: 1;
     position: relative;
+    height: 1050%;
 }
 
 #main>article {
     display: grid;
-    height: 100%;
+    height: 85vh;
     width: 100%;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 3fr 1fr;
     position: absolute;
     left: 0;
     top: 0;
-    height: 100%;
 
     transition: transform 500ms ease-in-out;
 }
