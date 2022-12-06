@@ -104,8 +104,6 @@ nav .nav-section {
 
 #main>article {
     display: grid;
-    height: 85vh;
-    width: 100%;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 3fr 1fr;
     position: absolute;
@@ -147,7 +145,7 @@ nav .nav-section {
 }
 
 #img1 {
-    background-image: url("/assets/img/Screenshot 2022-12-05 at 10.09.29.png");
+    background-image: url("/Personal-Website/assets/img/Screenshot 2022-12-05 at 10.09.29.png");
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
@@ -157,7 +155,7 @@ nav .nav-section {
 }
 
 #img2 {
-    background-image: url("/assets/img/IMG_0617.jpg");
+    background-image: url("/Personal-Website/assets/img/IMG_0617.jpg");
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
@@ -167,7 +165,7 @@ nav .nav-section {
 }
 
 #img3 {
-    background-image: url("/assets/img/IMG_0618.jpg");
+    background-image: url("/Personal-Website/assets/img/IMG_0618.jpg");
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
@@ -177,7 +175,7 @@ nav .nav-section {
 }
 
 #img4 {
-    background-image: url("/assets/img/IMG_0620.jpg");
+    background-image: url("/Personal-Website/assets/img/IMG_0620.jpg");
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
