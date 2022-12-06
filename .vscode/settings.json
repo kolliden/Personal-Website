@@ -1,3 +1,6 @@
 {
-    "cSpell.language": "en,lorem,en-GB,en-US,de-DE,de"
+    "cSpell.language": "en,lorem,en-GB,en-US,de-DE,de",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
